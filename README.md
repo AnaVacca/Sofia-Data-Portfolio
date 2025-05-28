@@ -64,7 +64,7 @@ I’m currently seeking internship or entry-level opportunities in **data analys
 
 - 📧 **Email**: anas.vacca@gmail.com
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/ana-sofia-vacca-echavarria-ab97b4229/
-- 🌍 **Portfolio Website**: *Coming Soon*
+
 
 ---
 
