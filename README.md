@@ -63,7 +63,7 @@ Welcome to my professional portfolio showcasing data-driven academic projects co
 I’m currently seeking internship or entry-level opportunities in **data analysis**, **machine learning**, or **data-driven product development**. Let's connect:
 
 - 📧 **Email**: anas.vacca@gmail.com
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/ana-sofia-vacca-echavarria-ab97b4229/
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/anavacca
 
 
 ---
