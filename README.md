@@ -53,7 +53,7 @@ operations and quantify ROI of proposed improvements.
 
 ## 🧰 Skills & Technologies
 
-- **Languages**: Python, SQL  
+- **Programming**: Python, SQL, Power BI, JavaScript, R
 - **Libraries**: Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn  
 - **Modeling Tools**: UML, BPMN, ERD  
 - **Data Science**: Data cleaning, regression, classification, time series, LSTM  
