@@ -9,7 +9,8 @@ Welcome to my professional portfolio showcasing data-driven academic projects co
 
 ### 🚁 **Husky Air – Pilot Angels Operations Optimization**  
 **Aug–Dec 2024**  
-- Developed a full business case and operational strategy with a 7-member team.  
+- Developed a full business case and operational strategy with a 7-member team.
+- Conducted Excel-based feasibility analysis and labor cost reduction projection by almost $6,000 to support stakeholders buy-in for database system.
 - Proposed a custom database system to reduce flight request processing time by **50%**.  
 - Improved volunteer tracking and scalability through system redesign.
 
@@ -17,8 +18,10 @@ Welcome to my professional portfolio showcasing data-driven academic projects co
 
 ### 🛒 **SmartPOS – Advanced Point-of-Sale System**  
 **Aug–Dec 2024**  
-- Led system vision and requirements definition using **UML**, **BPMN**, and **use-case diagrams**.  
-- Delivered a self-checkout solution that cut transaction time to **<5 seconds**.  
+- Led system vision and requirements definition using  Unified Model Language models (**UML**), Business Process Model and Notation diagram (**BPMN**), and **use-case diagrams** to trace matrices for seamless integration of sales, inventory, and customer management.  
+- Delivered a self-checkout solution that cut transaction time to **<5 seconds**.
+- Applied advanced Excel techniques (including scenario modeling and Solver) to simulate checkout
+operations and quantify ROI of proposed improvements. 
 - Enhanced transaction accuracy by **90%**, improving customer satisfaction and loss prevention.
 
 ---
@@ -33,17 +36,18 @@ Welcome to my professional portfolio showcasing data-driven academic projects co
 
 ### 🌡️ **NYC Weather Forecasting – Time Series & Deep Learning**  
 **Jan–May 2025**  
-- Applied linear, exponential, and polynomial trend models to forecast seasonal temperature changes.  
-- Trained an **LSTM neural network** for hourly forecasting using a 24-hour sliding window.  
-- Achieved consistent **RMSE ~14.4**, validating robust model generalization.
+- Used Python on a predictive analytics project to apply linear, exponential, and polynomial trend models to forecast seasonal temperature changes.  
+- Trained a Long-Short Term Memory (**LSTM neural network**) for hourly forecasting using a 24-hour sliding window.  
+- Delivered a polynomial trend model with Root Mean Squared Error achieving a consistent value of (**RMSE ~14.4**), validating robust model generalization.
 
 ---
 
 ### 📈 **Nvidia Stock Price Prediction – Regression Modeling**  
 **Jan–May 2025**  
-- Cleaned and transformed financial time series data (6,449 rows) for predictive modeling.  
+- Cleaned and transformed financial time series data (6,449 rows) spanning 1999 to 2008 to forecast NVIDIA’s closing prices, optimizing dataset integrity by removing nulls, duplicates, and irrelevant features.  
 - Compared **Linear Regression**, **Decision Tree**, **KNN**, and **Random Forest** models.  
 - Random Forest model achieved **R² = 0.99995** and **RMSE = 0.12101**—most accurate result.
+
 
 ---
 
